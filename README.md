@@ -1,5 +1,4 @@
-# Не забудь поставить звезду
 
-## npm run dev - запуск сервера
+## npm run dev - server launch
 
-## npm start - запуск клиента
+## npm start - client launch
