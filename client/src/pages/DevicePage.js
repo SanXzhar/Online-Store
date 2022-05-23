@@ -1,11 +1,11 @@
 import React from "react";
 
-const Auth = () => {
+const DevicePage = () => {
     return ( 
         <div>
-            AUTH
+            DEVICEPAGE
         </div>
      );
 }
  
-export default Auth;
+export default DevicePage;
